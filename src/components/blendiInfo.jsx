@@ -18,8 +18,8 @@ export default class blendiInfo extends Component {
     <br/>
     <center>
     <ButtonGroup aria-label="Basic example">
-    <a href="https://github.com/lieve-blendi"><Button variant="outline-primary">Gtihub</Button>{' '}</a>
-    <a href="https://discord.gg/AfrDQybdVC"><Button variant="outline-primary">Cellua Machine Discord</Button>{' '}</a>
+    <a href="https://github.com/lieve-blendi"><Button variant="outline-primary">Github</Button>{' '}</a>
+    <a href="https://discord.gg/AfrDQybdVC"><Button variant="outline-primary">CelLua Machine Discord</Button>{' '}</a>
 
     </ButtonGroup>
     </center>
