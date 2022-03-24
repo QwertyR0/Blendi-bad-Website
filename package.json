@@ -2,7 +2,7 @@
   "name": "blendi-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://qwertyr0.github.io/Blendi-bad-Website",
+  "homepage": "https://feathery.fr",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -22,10 +22,11 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy2p": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
