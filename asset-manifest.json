@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Blendi-bad-Website/static/css/main.0bc9fcc5.css",
-    "main.js": "/Blendi-bad-Website/static/js/main.d3074b44.js",
-    "static/js/787.91922877.chunk.js": "/Blendi-bad-Website/static/js/787.91922877.chunk.js",
-    "static/media/blendigoosev2.png": "/Blendi-bad-Website/static/media/blendigoosev2.f25417acbc36361ce68d.png",
-    "index.html": "/Blendi-bad-Website/index.html",
-    "main.0bc9fcc5.css.map": "/Blendi-bad-Website/static/css/main.0bc9fcc5.css.map",
-    "main.d3074b44.js.map": "/Blendi-bad-Website/static/js/main.d3074b44.js.map",
-    "787.91922877.chunk.js.map": "/Blendi-bad-Website/static/js/787.91922877.chunk.js.map"
+    "main.css": "/static/css/main.0bc9fcc5.css",
+    "main.js": "/static/js/main.3efaf030.js",
+    "static/js/787.91922877.chunk.js": "/static/js/787.91922877.chunk.js",
+    "static/media/blendigoosev2.png": "/static/media/blendigoosev2.f25417acbc36361ce68d.png",
+    "index.html": "/index.html",
+    "main.0bc9fcc5.css.map": "/static/css/main.0bc9fcc5.css.map",
+    "main.3efaf030.js.map": "/static/js/main.3efaf030.js.map",
+    "787.91922877.chunk.js.map": "/static/js/787.91922877.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0bc9fcc5.css",
-    "static/js/main.d3074b44.js"
+    "static/js/main.3efaf030.js"
   ]
 }
