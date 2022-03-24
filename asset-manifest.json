@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0bc9fcc5.css",
+    "main.js": "/static/js/main.3efaf030.js",
+    "static/js/787.91922877.chunk.js": "/static/js/787.91922877.chunk.js",
+    "static/media/blendigoosev2.png": "/static/media/blendigoosev2.f25417acbc36361ce68d.png",
+    "index.html": "/index.html",
+    "main.0bc9fcc5.css.map": "/static/css/main.0bc9fcc5.css.map",
+    "main.3efaf030.js.map": "/static/js/main.3efaf030.js.map",
+    "787.91922877.chunk.js.map": "/static/js/787.91922877.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bc9fcc5.css",
+    "static/js/main.3efaf030.js"
+  ]
+}
